@@ -1,4 +1,4 @@
-# Smart Inventory & Order Tracking Platform
+# StockSync - Smart Inventory & Order Tracking Platform
 
 ## Project Description
 
