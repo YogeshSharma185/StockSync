@@ -19,7 +19,6 @@ A modern web-based Inventory and Order Tracking Platform designed to streamline 
 ### Backend
 
 * FastAPI (Python)
-* SQLAlchemy ORM
 
 ### Frontend
 
