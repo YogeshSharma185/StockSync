@@ -10,7 +10,7 @@ A modern web-based Inventory and Order Tracking Platform designed to streamline 
 
 ### Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Product Management
 
