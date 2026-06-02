@@ -71,35 +71,6 @@ A modern web-based Inventory and Order Tracking Platform designed to streamline 
 
 ---
 
-## Project Structure
-
-```text
-StockSync/
-│
-├── backend/
-│   ├── app/
-│   ├── requirements.txt
-│   └── Dockerfile
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── Dockerfile
-│
-├── screenshots/
-│   ├── dashboard.png
-│   ├── products.png
-│   ├── customers.png
-│   ├── orders.png
-│   ├── inventory.png
-│   └── order-validation.png
-│
-├── docker-compose.yml
-└── README.md
-```
-
----
-
 ## Running the Application
 
 ### Backend Setup
@@ -144,17 +115,6 @@ docker compose up --build
 ✅ Dockerized Deployment
 
 ✅ Responsive React Frontend
-
----
-
-## Future Enhancements
-
-* User Authentication & Authorization
-* Order Status Tracking
-* Sales Analytics Dashboard
-* Low Stock Alerts
-* Export Reports (CSV/PDF)
-* Role-Based Access Control (RBAC)
 
 ---
 
